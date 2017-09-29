@@ -1,0 +1,18 @@
+<aspectj>
+<aspects>
+<aspect name="com.dw.roo.conference.web.ApplicationConversionServiceFactoryBean_Roo_ConversionService"/>
+<aspect name="com.dw.roo.conference.domain.Talk_Roo_ToString"/>
+<aspect name="com.dw.roo.conference.domain.Speaker_Roo_Jpa_ActiveRecord"/>
+<aspect name="com.dw.roo.conference.domain.Talk_Roo_Jpa_ActiveRecord"/>
+<aspect name="com.dw.roo.conference.domain.Talk_Roo_Jpa_Entity"/>
+<aspect name="com.dw.roo.conference.domain.Talk_Roo_Configurable"/>
+<aspect name="com.dw.roo.conference.domain.Talk_Roo_JavaBean"/>
+<aspect name="com.dw.roo.conference.web.TalkController_Roo_Controller"/>
+<aspect name="com.dw.roo.conference.domain.Speaker_Roo_Jpa_Entity"/>
+<aspect name="com.dw.roo.conference.domain.Speaker_Roo_JavaBean"/>
+<aspect name="com.dw.roo.conference.domain.Speaker_Roo_ToString"/>
+<aspect name="com.dw.roo.conference.domain.Speaker_Roo_Configurable"/>
+<aspect name="com.dw.roo.conference.web.SpeakerController_Roo_Controller"/>
+</aspects>
+</aspectj>
+
